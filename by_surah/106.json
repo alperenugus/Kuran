@@ -1,0 +1,47 @@
+{
+  "number": 106,
+  "name_turkish": "Kureyş",
+  "name_arabic": "قُرَيْشٍ",
+  "name_transliteration": "Quraysh",
+  "revelation_place": "meccan",
+  "revelation_order": 29,
+  "ayah_count": 4,
+  "first_page": 603,
+  "first_printed_page": 602,
+  "juz": 30,
+  "besmele": true,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "لِا۪يلَافِ قُرَيْشٍۙ",
+      "text_unicode": "لِاٖیلَافِ قُرَیْشٍۙ"
+    },
+    {
+      "ayah": 2,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "ا۪يلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ",
+      "text_unicode": "اٖیلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّیْفِۚ"
+    },
+    {
+      "ayah": 3,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ",
+      "text_unicode": "فَلْیَعْبُدُوا رَبَّ هٰذَا الْبَیْتِۙ"
+    },
+    {
+      "ayah": 4,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "اَلَّذ۪ٓي اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ",
+      "text_unicode": "اَلَّذٖٓی اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ"
+    }
+  ]
+}

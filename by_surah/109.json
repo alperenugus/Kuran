@@ -1,0 +1,63 @@
+{
+  "number": 109,
+  "name_turkish": "Kâfirûn",
+  "name_arabic": "الْكَافِرُونَ",
+  "name_transliteration": "Al-Kafirun",
+  "revelation_place": "meccan",
+  "revelation_order": 18,
+  "ayah_count": 6,
+  "first_page": 604,
+  "first_printed_page": 603,
+  "juz": 30,
+  "besmele": true,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "page": 604,
+      "printed_page": 603,
+      "juz": 30,
+      "text": "قُلْ يَٓا اَيُّهَا الْكَافِرُونَۙ",
+      "text_unicode": "قُلْ یَٓا اَیُّهَا الْكَافِرُونَۙ"
+    },
+    {
+      "ayah": 2,
+      "page": 604,
+      "printed_page": 603,
+      "juz": 30,
+      "text": "لَٓا اَعْبُدُ مَا تَعْبُدُونَۙ",
+      "text_unicode": "لَٓا اَعْبُدُ مَا تَعْبُدُونَۙ"
+    },
+    {
+      "ayah": 3,
+      "page": 604,
+      "printed_page": 603,
+      "juz": 30,
+      "text": "وَلَٓا اَنْتُمْ عَابِدُونَ مَٓا اَعْبُدُۚ",
+      "text_unicode": "وَلَٓا اَنْتُمْ عَابِدُونَ مَٓا اَعْبُدُۚ"
+    },
+    {
+      "ayah": 4,
+      "page": 604,
+      "printed_page": 603,
+      "juz": 30,
+      "text": "وَلَٓا اَنَا۬ عَابِدٌ مَا عَبَدْتُمْۙ",
+      "text_unicode": "وَلَٓا اَنَا࣑ عَابِدٌ مَا عَبَدْتُمْۙ"
+    },
+    {
+      "ayah": 5,
+      "page": 604,
+      "printed_page": 603,
+      "juz": 30,
+      "text": "وَلَٓا اَنْتُمْ عَابِدُونَ مَٓا اَعْبُدُۜ",
+      "text_unicode": "وَلَٓا اَنْتُمْ عَابِدُونَ مَٓا اَعْبُدُؕ"
+    },
+    {
+      "ayah": 6,
+      "page": 604,
+      "printed_page": 603,
+      "juz": 30,
+      "text": "لَكُمْ د۪ينُكُمْ وَلِيَ د۪ينِ",
+      "text_unicode": "لَكُمْ دٖینُكُمْ وَلِیَ دٖینِ"
+    }
+  ]
+}

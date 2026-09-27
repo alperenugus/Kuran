@@ -1,0 +1,87 @@
+{
+  "number": 104,
+  "name_turkish": "Hümeze",
+  "name_arabic": "الْهُمَزَةِ",
+  "name_transliteration": "Al-Humazah",
+  "revelation_place": "meccan",
+  "revelation_order": 32,
+  "ayah_count": 9,
+  "first_page": 602,
+  "first_printed_page": 601,
+  "juz": 30,
+  "besmele": true,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍۙ",
+      "text_unicode": "وَیْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍۙ"
+    },
+    {
+      "ayah": 2,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "اَلَّذ۪ي جَمَعَ مَالًا وَعَدَّدَهُۙ",
+      "text_unicode": "اَلَّذٖی جَمَعَ مَالًا وَعَدَّدَهُۙ"
+    },
+    {
+      "ayah": 3,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "يَحْسَبُ اَنَّ مَالَهُٓ اَخْلَدَهُۚ",
+      "text_unicode": "یَحْسَبُ اَنَّ مَالَهُٓ اَخْلَدَهُۚ"
+    },
+    {
+      "ayah": 4,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِۘ",
+      "text_unicode": "كَلَّا لَیُنْبَذَنَّ فِی الْحُطَمَةِؗ"
+    },
+    {
+      "ayah": 5,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "وَمَٓا اَدْرٰيكَ مَا الْحُطَمَةُۜ",
+      "text_unicode": "وَمَٓا اَدْرٰیكَ مَا الْحُطَمَةُؕ"
+    },
+    {
+      "ayah": 6,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "نَارُ اللّٰهِ الْمُوقَدَةُۙ",
+      "text_unicode": "نَارُ اللّٰهِ الْمُوقَدَةُۙ"
+    },
+    {
+      "ayah": 7,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "اَلَّت۪ي تَطَّلِعُ عَلَى الْاَفِْٔدَةِۜ",
+      "text_unicode": "اَلَّتٖی تَطَّلِعُ عَلَى الْاَفِْٔدَةِؕ"
+    },
+    {
+      "ayah": 8,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "اِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌۙ",
+      "text_unicode": "اِنَّهَا عَلَیْهِمْ مُؤْصَدَةٌۙ"
+    },
+    {
+      "ayah": 9,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "ف۪ي عَمَدٍ مُمَدَّدَةٍ",
+      "text_unicode": "فٖی عَمَدٍ مُمَدَّدَةٍ"
+    }
+  ]
+}

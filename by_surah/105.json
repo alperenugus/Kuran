@@ -1,0 +1,55 @@
+{
+  "number": 105,
+  "name_turkish": "Fîl",
+  "name_arabic": "الْف۪يلِ",
+  "name_transliteration": "Al-Fil",
+  "revelation_place": "meccan",
+  "revelation_order": 19,
+  "ayah_count": 5,
+  "first_page": 602,
+  "first_printed_page": 601,
+  "juz": 30,
+  "besmele": true,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحَابِ الْف۪يلِۜ",
+      "text_unicode": "اَلَمْ تَرَ كَیْفَ فَعَلَ رَبُّكَ بِاَصْحَابِ الْفٖیلِؕ"
+    },
+    {
+      "ayah": 2,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "اَلَمْ يَجْعَلْ كَيْدَهُمْ ف۪ي تَضْل۪يلٍۙ",
+      "text_unicode": "اَلَمْ یَجْعَلْ كَیْدَهُمْ فٖی تَضْلٖیلٍۙ"
+    },
+    {
+      "ayah": 3,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "وَاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَاب۪يلَۙ",
+      "text_unicode": "وَاَرْسَلَ عَلَیْهِمْ طَیْرًا اَبَابٖیلَۙ"
+    },
+    {
+      "ayah": 4,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "تَرْم۪يهِمْ بِحِجَارَةٍ مِنْ سِجّ۪يلٍۖۙ",
+      "text_unicode": "تَرْمٖیهِمْ بِحِجَارَةٍ مِنْ سِجّٖیلٍࣕۙ"
+    },
+    {
+      "ayah": 5,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "فَجَعَلَهُمْ كَعَصْفٍ مَاْكُولٍ",
+      "text_unicode": "فَجَعَلَهُمْ كَعَصْفٍ مَاْكُولٍ"
+    }
+  ]
+}

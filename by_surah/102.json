@@ -1,0 +1,79 @@
+{
+  "number": 102,
+  "name_turkish": "Tekâsür",
+  "name_arabic": "التَّكَاثُرِ",
+  "name_transliteration": "At-Takathur",
+  "revelation_place": "meccan",
+  "revelation_order": 16,
+  "ayah_count": 8,
+  "first_page": 601,
+  "first_printed_page": 600,
+  "juz": 30,
+  "besmele": true,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "page": 601,
+      "printed_page": 600,
+      "juz": 30,
+      "text": "اَلْهٰيكُمُ التَّكَاثُرُۙ",
+      "text_unicode": "اَلْهٰیكُمُ التَّكَاثُرُۙ"
+    },
+    {
+      "ayah": 2,
+      "page": 601,
+      "printed_page": 600,
+      "juz": 30,
+      "text": "حَتّٰى زُرْتُمُ الْمَقَابِرَۜ",
+      "text_unicode": "حَتّٰى زُرْتُمُ الْمَقَابِرَؕ"
+    },
+    {
+      "ayah": 3,
+      "page": 601,
+      "printed_page": 600,
+      "juz": 30,
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَۙ",
+      "text_unicode": "كَلَّا سَوْفَ تَعْلَمُونَۙ"
+    },
+    {
+      "ayah": 4,
+      "page": 601,
+      "printed_page": 600,
+      "juz": 30,
+      "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَۜ",
+      "text_unicode": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَؕ"
+    },
+    {
+      "ayah": 5,
+      "page": 601,
+      "printed_page": 600,
+      "juz": 30,
+      "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَق۪ينِۜ",
+      "text_unicode": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْیَقٖینِؕ"
+    },
+    {
+      "ayah": 6,
+      "page": 601,
+      "printed_page": 600,
+      "juz": 30,
+      "text": "لَتَرَوُنَّ الْجَح۪يمَۙ",
+      "text_unicode": "لَتَرَوُنَّ الْجَحٖیمَۙ"
+    },
+    {
+      "ayah": 7,
+      "page": 601,
+      "printed_page": 600,
+      "juz": 30,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَق۪ينِۙ",
+      "text_unicode": "ثُمَّ لَتَرَوُنَّهَا عَیْنَ الْیَقٖینِۙ"
+    },
+    {
+      "ayah": 8,
+      "page": 601,
+      "printed_page": 600,
+      "juz": 30,
+      "text": "ثُمَّ لَتُسَْٔلُنَّ يَوْمَئِذٍ عَنِ النَّع۪يمِ",
+      "text_unicode": "ثُمَّ لَتُسَْٔلُنَّ یَوْمَئِذٍ عَنِ النَّعٖیمِ"
+    }
+  ]
+}

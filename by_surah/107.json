@@ -1,0 +1,71 @@
+{
+  "number": 107,
+  "name_turkish": "Maûn",
+  "name_arabic": "الْمَاعُونِ",
+  "name_transliteration": "Al-Ma'un",
+  "revelation_place": "meccan",
+  "revelation_order": 17,
+  "ayah_count": 7,
+  "first_page": 603,
+  "first_printed_page": 602,
+  "juz": 30,
+  "besmele": true,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "اَرَاَيْتَ الَّذ۪ي يُكَذِّبُ بِالدّ۪ينِۜ",
+      "text_unicode": "اَرَاَیْتَ الَّذٖی یُكَذِّبُ بِالدّٖینِؕ"
+    },
+    {
+      "ayah": 2,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "فَذٰلِكَ الَّذ۪ي يَدُعُّ الْيَت۪يمَۙ",
+      "text_unicode": "فَذٰلِكَ الَّذٖی یَدُعُّ الْیَتٖیمَۙ"
+    },
+    {
+      "ayah": 3,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْك۪ينِۜ",
+      "text_unicode": "وَلَا یَحُضُّ عَلٰى طَعَامِ الْمِسْكٖینِؕ"
+    },
+    {
+      "ayah": 4,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "فَوَيْلٌ لِلْمُصَلّ۪ينَۙ",
+      "text_unicode": "فَوَیْلٌ لِلْمُصَلّٖینَۙ"
+    },
+    {
+      "ayah": 5,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "اَلَّذ۪ينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَۙ",
+      "text_unicode": "اَلَّذٖینَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَۙ"
+    },
+    {
+      "ayah": 6,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "اَلَّذ۪ينَ هُمْ يُرَٓاؤُ۫نَۙ",
+      "text_unicode": "اَلَّذٖینَ هُمْ یُرَٓاؤُ࣒نَۙ"
+    },
+    {
+      "ayah": 7,
+      "page": 603,
+      "printed_page": 602,
+      "juz": 30,
+      "text": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "text_unicode": "وَیَمْنَعُونَ الْمَاعُونَ"
+    }
+  ]
+}

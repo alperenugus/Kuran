@@ -1,0 +1,39 @@
+{
+  "number": 103,
+  "name_turkish": "Asr",
+  "name_arabic": "الْعَصْرِ",
+  "name_transliteration": "Al-'Asr",
+  "revelation_place": "meccan",
+  "revelation_order": 13,
+  "ayah_count": 3,
+  "first_page": 602,
+  "first_printed_page": 601,
+  "juz": 30,
+  "besmele": true,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "وَالْعَصْرِۙ",
+      "text_unicode": "وَالْعَصْرِۙ"
+    },
+    {
+      "ayah": 2,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "اِنَّ الْاِنْسَانَ لَف۪ي خُسْرٍۙ",
+      "text_unicode": "اِنَّ الْاِنْسَانَ لَفٖی خُسْرٍۙ"
+    },
+    {
+      "ayah": 3,
+      "page": 602,
+      "printed_page": 601,
+      "juz": 30,
+      "text": "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "text_unicode": "اِلَّا الَّذٖینَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ"
+    }
+  ]
+}

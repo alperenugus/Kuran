@@ -1,0 +1,79 @@
+{
+  "number": 94,
+  "name_turkish": "İnşirâh",
+  "name_arabic": "الْاِنْشِرَاحِ",
+  "name_transliteration": "Ash-Sharh",
+  "revelation_place": "meccan",
+  "revelation_order": 12,
+  "ayah_count": 8,
+  "first_page": 597,
+  "first_printed_page": 596,
+  "juz": 30,
+  "besmele": true,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "page": 597,
+      "printed_page": 596,
+      "juz": 30,
+      "text": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+      "text_unicode": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ"
+    },
+    {
+      "ayah": 2,
+      "page": 597,
+      "printed_page": 596,
+      "juz": 30,
+      "text": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+      "text_unicode": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ"
+    },
+    {
+      "ayah": 3,
+      "page": 597,
+      "printed_page": 596,
+      "juz": 30,
+      "text": "اَلَّذ۪ٓي اَنْقَضَ ظَهْرَكَۙ",
+      "text_unicode": "اَلَّذٖٓی اَنْقَضَ ظَهْرَكَۙ"
+    },
+    {
+      "ayah": 4,
+      "page": 597,
+      "printed_page": 596,
+      "juz": 30,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَۜ",
+      "text_unicode": "وَرَفَعْنَا لَكَ ذِكْرَكَؕ"
+    },
+    {
+      "ayah": 5,
+      "page": 597,
+      "printed_page": 596,
+      "juz": 30,
+      "text": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+      "text_unicode": "فَاِنَّ مَعَ الْعُسْرِ یُسْرًاۙ"
+    },
+    {
+      "ayah": 6,
+      "page": 597,
+      "printed_page": 596,
+      "juz": 30,
+      "text": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۜ",
+      "text_unicode": "اِنَّ مَعَ الْعُسْرِ یُسْرًاؕ"
+    },
+    {
+      "ayah": 7,
+      "page": 597,
+      "printed_page": 596,
+      "juz": 30,
+      "text": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+      "text_unicode": "فَاِذَا فَرَغْتَ فَانْصَبْۙ"
+    },
+    {
+      "ayah": 8,
+      "page": 597,
+      "printed_page": 596,
+      "juz": 30,
+      "text": "وَاِلٰى رَبِّكَ فَارْغَبْ",
+      "text_unicode": "وَاِلٰى رَبِّكَ فَارْغَبْ"
+    }
+  ]
+}
