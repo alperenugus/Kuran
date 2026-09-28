@@ -2,6 +2,7 @@
   "number": 100,
   "name_turkish": "Âdiyât",
   "name_arabic": "الْعَادِيَاتِ",
+  "name_arabic_unicode": "الْعَادِيَاتِ",
   "name_transliteration": "Al-'Adiyat",
   "revelation_place": "meccan",
   "revelation_order": 14,
@@ -16,6 +17,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "وَالْعَادِيَاتِ ضَبْحًاۙ",
       "text_unicode": "وَالْعَادِیَاتِ ضَبْحًاۙ"
     },
@@ -24,6 +26,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "فَالْمُورِيَاتِ قَدْحًاۙ",
       "text_unicode": "فَالْمُورِیَاتِ قَدْحًاۙ"
     },
@@ -32,6 +35,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "فَالْمُغ۪يرَاتِ صُبْحًاۙ",
       "text_unicode": "فَالْمُغٖیرَاتِ صُبْحًاۙ"
     },
@@ -40,6 +44,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "فَاَثَرْنَ بِه۪ نَقْعًاۙ",
       "text_unicode": "فَاَثَرْنَ بِهٖ نَقْعًاۙ"
     },
@@ -48,6 +53,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "فَوَسَطْنَ بِه۪ جَمْعًاۙ",
       "text_unicode": "فَوَسَطْنَ بِهٖ جَمْعًاۙ"
     },
@@ -56,6 +62,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "اِنَّ الْاِنْسَانَ لِرَبِّه۪ لَكَنُودٌۚ",
       "text_unicode": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُودٌۚ"
     },
@@ -64,6 +71,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "وَاِنَّهُ عَلٰى ذٰلِكَ لَشَه۪يدٌۚ",
       "text_unicode": "وَاِنَّهُ عَلٰى ذٰلِكَ لَشَهٖیدٌۚ"
     },
@@ -72,6 +80,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "وَاِنَّهُ لِحُبِّ الْخَيْرِ لَشَد۪يدٌۜ",
       "text_unicode": "وَاِنَّهُ لِحُبِّ الْخَیْرِ لَشَدٖیدٌؕ"
     },
@@ -80,6 +89,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِي الْقُبُورِۙ",
       "text_unicode": "اَفَلَا یَعْلَمُ اِذَا بُعْثِرَ مَا فِی الْقُبُورِۙ"
     },
@@ -88,6 +98,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "وَحُصِّلَ مَا فِي الصُّدُورِۙ",
       "text_unicode": "وَحُصِّلَ مَا فِی الصُّدُورِۙ"
     },
@@ -96,6 +107,7 @@
       "page": 600,
       "printed_page": 599,
       "juz": 30,
+      "sajda": false,
       "text": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَب۪يرٌ",
       "text_unicode": "اِنَّ رَبَّهُمْ بِهِمْ یَوْمَئِذٍ لَخَبٖیرٌ"
     }

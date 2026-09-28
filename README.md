@@ -41,6 +41,7 @@ The text is Diyanet's own mushaf page data (`kuran.diyanet.gov.tr/mushaf`). It w
   "page": 3,
   "printed_page": 2,
   "juz": 1,
+  "sajda": false,
   "text": "خَتَمَ اللّٰهُ عَلٰى قُلُوبِهِمْ وَعَلٰى سَمْعِهِمْۜ وَعَلٰٓى اَبْصَارِهِمْ غِشَاوَةٌۘ وَلَهُمْ عَذَابٌ عَظ۪يمٌ۟",
   "text_unicode": "خَتَمَ اللّٰهُ عَلٰى قُلُوبِهِمْ وَعَلٰى سَمْعِهِمْؕ وَعَلٰٓى اَبْصَارِهِمْ غِشَاوَةٌؗ وَلَهُمْ عَذَابٌ عَظٖیمٌࣖ"
 }
@@ -50,6 +51,7 @@ The text is Diyanet's own mushaf page data (`kuran.diyanet.gov.tr/mushaf`). It w
 
 - **`page`**: the page in Diyanet's online mushaf (1–605).
 - **`printed_page`**: the number printed in the Diyanet mushaf (1–604). The print counts its decorated opening spread (Fâtiha + Bakara 1–5, online pages 1–2) as page 1.
+- **`sajda`**: `true` on the 14 secde ayahs marked in the Diyanet mushaf (the Hanafi list; 22:77 carries no secde mark in the print).
 - **`juz`**: cüz 1–30. Turkish mushafs start every cüz at the top of a page, so four cüz begin one ayah away from the Arab convention (cüz 4 starts at 3:92, 7 at 5:83, 11 at 9:94, 26 at 45:33).
 
 ### `text` vs `text_unicode`: pick the one that matches your font
@@ -75,14 +77,10 @@ The kashida (U+0640) that Diyanet inserts to justify its page layout has been re
 ### Sûre
 
 ```json
-{
-  "number": 18, "name_turkish": "Kehf", "name_arabic": "الْكَهْفِ",
-  "name_transliteration": "Al-Kahf", "revelation_place": "meccan", "revelation_order": 69,
-  "ayah_count": 110, "first_page": 293, "first_printed_page": 292, "juz": 15, "besmele": true
-}
+{"number": 18, "name_turkish": "Kehf", "name_arabic": "الْكَهْفِ", "name_arabic_unicode": "الْكَهْفِ", "name_transliteration": "Al-Kahf", "revelation_place": "meccan", "revelation_order": 69, "ayah_count": 110, "first_page": 293, "first_printed_page": 292, "juz": 15, "besmele": true}
 ```
 
-`besmele` means the Besmele is printed above the sûre. It is `false` for Tevbe, and for Fâtiha, whose first ayah is the Besmele.
+`name_arabic` uses the same Hamdullah encoding as `text`; `name_arabic_unicode` is its standard-Unicode form, matching `text_unicode`. `besmele` means the Besmele is printed above the sûre. It is `false` for Tevbe, and for Fâtiha, whose first ayah is the Besmele.
 
 ## Kuran.pdf
 

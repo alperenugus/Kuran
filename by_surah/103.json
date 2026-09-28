@@ -2,6 +2,7 @@
   "number": 103,
   "name_turkish": "Asr",
   "name_arabic": "الْعَصْرِ",
+  "name_arabic_unicode": "الْعَصْرِ",
   "name_transliteration": "Al-'Asr",
   "revelation_place": "meccan",
   "revelation_order": 13,
@@ -16,6 +17,7 @@
       "page": 602,
       "printed_page": 601,
       "juz": 30,
+      "sajda": false,
       "text": "وَالْعَصْرِۙ",
       "text_unicode": "وَالْعَصْرِۙ"
     },
@@ -24,6 +26,7 @@
       "page": 602,
       "printed_page": 601,
       "juz": 30,
+      "sajda": false,
       "text": "اِنَّ الْاِنْسَانَ لَف۪ي خُسْرٍۙ",
       "text_unicode": "اِنَّ الْاِنْسَانَ لَفٖی خُسْرٍۙ"
     },
@@ -32,6 +35,7 @@
       "page": 602,
       "printed_page": 601,
       "juz": 30,
+      "sajda": false,
       "text": "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
       "text_unicode": "اِلَّا الَّذٖینَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ"
     }

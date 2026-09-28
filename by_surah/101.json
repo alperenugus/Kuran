@@ -2,6 +2,7 @@
   "number": 101,
   "name_turkish": "Kâria",
   "name_arabic": "الْقَارِعَةِ",
+  "name_arabic_unicode": "الْقَارِعَةِ",
   "name_transliteration": "Al-Qari'ah",
   "revelation_place": "meccan",
   "revelation_order": 30,
@@ -16,6 +17,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "اَلْقَارِعَةُۙ",
       "text_unicode": "اَلْقَارِعَةُۙ"
     },
@@ -24,6 +26,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "مَا الْقَارِعَةُۚ",
       "text_unicode": "مَا الْقَارِعَةُۚ"
     },
@@ -32,6 +35,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "وَمَٓا اَدْرٰيكَ مَا الْقَارِعَةُۜ",
       "text_unicode": "وَمَٓا اَدْرٰیكَ مَا الْقَارِعَةُؕ"
     },
@@ -40,6 +44,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِۙ",
       "text_unicode": "یَوْمَ یَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِۙ"
     },
@@ -48,6 +53,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِۜ",
       "text_unicode": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِؕ"
     },
@@ -56,6 +62,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "فَاَمَّا مَنْ ثَقُلَتْ مَوَاز۪ينُهُۙ",
       "text_unicode": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازٖینُهُۙ"
     },
@@ -64,6 +71,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "فَهُوَ ف۪ي ع۪يشَةٍ رَاضِيَةٍۜ",
       "text_unicode": "فَهُوَ فٖی عٖیشَةٍ رَاضِیَةٍؕ"
     },
@@ -72,6 +80,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "وَاَمَّا مَنْ خَفَّتْ مَوَاز۪ينُهُۙ",
       "text_unicode": "وَاَمَّا مَنْ خَفَّتْ مَوَازٖینُهُۙ"
     },
@@ -80,6 +89,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "فَاُمُّهُ هَاوِيَةٌۜ",
       "text_unicode": "فَاُمُّهُ هَاوِیَةٌؕ"
     },
@@ -88,6 +98,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "وَمَٓا اَدْرٰيكَ مَا هِيَهْۜ",
       "text_unicode": "وَمَٓا اَدْرٰیكَ مَا هِیَهْؕ"
     },
@@ -96,6 +107,7 @@
       "page": 601,
       "printed_page": 600,
       "juz": 30,
+      "sajda": false,
       "text": "نَارٌ حَامِيَةٌ",
       "text_unicode": "نَارٌ حَامِیَةٌ"
     }

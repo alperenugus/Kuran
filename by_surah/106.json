@@ -2,6 +2,7 @@
   "number": 106,
   "name_turkish": "Kureyş",
   "name_arabic": "قُرَيْشٍ",
+  "name_arabic_unicode": "قُرَيْشٍ",
   "name_transliteration": "Quraysh",
   "revelation_place": "meccan",
   "revelation_order": 29,
@@ -16,6 +17,7 @@
       "page": 603,
       "printed_page": 602,
       "juz": 30,
+      "sajda": false,
       "text": "لِا۪يلَافِ قُرَيْشٍۙ",
       "text_unicode": "لِاٖیلَافِ قُرَیْشٍۙ"
     },
@@ -24,6 +26,7 @@
       "page": 603,
       "printed_page": 602,
       "juz": 30,
+      "sajda": false,
       "text": "ا۪يلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ",
       "text_unicode": "اٖیلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّیْفِۚ"
     },
@@ -32,6 +35,7 @@
       "page": 603,
       "printed_page": 602,
       "juz": 30,
+      "sajda": false,
       "text": "فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ",
       "text_unicode": "فَلْیَعْبُدُوا رَبَّ هٰذَا الْبَیْتِۙ"
     },
@@ -40,6 +44,7 @@
       "page": 603,
       "printed_page": 602,
       "juz": 30,
+      "sajda": false,
       "text": "اَلَّذ۪ٓي اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ",
       "text_unicode": "اَلَّذٖٓی اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ"
     }

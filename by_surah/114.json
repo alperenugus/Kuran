@@ -2,6 +2,7 @@
   "number": 114,
   "name_turkish": "Nâs",
   "name_arabic": "النَّاسِ",
+  "name_arabic_unicode": "النَّاسِ",
   "name_transliteration": "An-Nas",
   "revelation_place": "meccan",
   "revelation_order": 21,
@@ -16,6 +17,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "قُلْ اَعُوذُ بِرَبِّ النَّاسِۙ",
       "text_unicode": "قُلْ اَعُوذُ بِرَبِّ النَّاسِۙ"
     },
@@ -24,6 +26,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "مَلِكِ النَّاسِۙ",
       "text_unicode": "مَلِكِ النَّاسِۙ"
     },
@@ -32,6 +35,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "اِلٰهِ النَّاسِۙ",
       "text_unicode": "اِلٰهِ النَّاسِۙ"
     },
@@ -40,6 +44,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِۙ",
       "text_unicode": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِۙ"
     },
@@ -48,6 +53,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "اَلَّذ۪ي يُوَسْوِسُ ف۪ي صُدُورِ النَّاسِۙ",
       "text_unicode": "اَلَّذٖی یُوَسْوِسُ فٖی صُدُورِ النَّاسِۙ"
     },
@@ -56,6 +62,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
       "text_unicode": "مِنَ الْجِنَّةِ وَالنَّاسِ"
     }

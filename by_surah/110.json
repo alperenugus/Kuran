@@ -2,6 +2,7 @@
   "number": 110,
   "name_turkish": "Nasr",
   "name_arabic": "النَّصْرِ",
+  "name_arabic_unicode": "النَّصْرِ",
   "name_transliteration": "An-Nasr",
   "revelation_place": "medinan",
   "revelation_order": 114,
@@ -16,6 +17,7 @@
       "page": 604,
       "printed_page": 603,
       "juz": 30,
+      "sajda": false,
       "text": "اِذَا جَٓاءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
       "text_unicode": "اِذَا جَٓاءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ"
     },
@@ -24,6 +26,7 @@
       "page": 604,
       "printed_page": 603,
       "juz": 30,
+      "sajda": false,
       "text": "وَرَاَيْتَ النَّاسَ يَدْخُلُونَ ف۪ي د۪ينِ اللّٰهِ اَفْوَاجًاۙ",
       "text_unicode": "وَرَاَیْتَ النَّاسَ یَدْخُلُونَ فٖی دٖینِ اللّٰهِ اَفْوَاجًاۙ"
     },
@@ -32,6 +35,7 @@
       "page": 604,
       "printed_page": 603,
       "juz": 30,
+      "sajda": false,
       "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۜ اِنَّهُ كَانَ تَوَّابًا",
       "text_unicode": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُؕ اِنَّهُ كَانَ تَوَّابًا"
     }

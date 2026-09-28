@@ -2,6 +2,7 @@
   "number": 112,
   "name_turkish": "İhlâs",
   "name_arabic": "الْاِخْلَاصِ",
+  "name_arabic_unicode": "الْاِخْلَاصِ",
   "name_transliteration": "Al-Ikhlas",
   "revelation_place": "meccan",
   "revelation_order": 22,
@@ -16,6 +17,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
       "text_unicode": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ"
     },
@@ -24,6 +26,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "اَللّٰهُ الصَّمَدُۚ",
       "text_unicode": "اَللّٰهُ الصَّمَدُۚ"
     },
@@ -32,6 +35,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "لَمْ يَلِدْ وَلَمْ يُولَدْۙ",
       "text_unicode": "لَمْ یَلِدْ وَلَمْ یُولَدْۙ"
     },
@@ -40,6 +44,7 @@
       "page": 605,
       "printed_page": 604,
       "juz": 30,
+      "sajda": false,
       "text": "وَلَمْ يَكُنْ لَهُ كُفُوًا اَحَدٌ",
       "text_unicode": "وَلَمْ یَكُنْ لَهُ كُفُوًا اَحَدٌ"
     }

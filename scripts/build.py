@@ -41,6 +41,18 @@ TO_HAMDULLAH = {
 }
 
 
+# Secde (prostration) ayahs as marked in the Diyanet mushaf — the 14 of the
+# Hanafi school. 22:77 (a Shafi'i sajda, listed by Tanzil) carries no secde mark
+# in the Diyanet print (printed page 340), so it is not included.
+SAJDA = {(7, 206), (13, 15), (16, 50), (17, 109), (19, 58), (22, 18), (25, 60),
+         (27, 26), (32, 15), (38, 24), (41, 38), (53, 62), (84, 21), (96, 19)}
+
+
+def to_unicode(t):
+    """Hamdullah-encoded (Diyanet sûre names) -> standard Unicode."""
+    return t.replace("\u06EA", "\u0656")
+
+
 def printed_page(page):
     """The printed mushaf treats its decorated opening spread (Fâtiha + Bakara 1-5,
     online pages 1-2) as page 1 and numbers on from there, so it has 604 pages."""
@@ -75,6 +87,7 @@ def main():
             u = clean(a["text"])
             ayahs.append({"surah": a["surah"], "ayah": a["ayah"], "page": p["page"],
                           "printed_page": printed_page(p["page"]), "juz": juz,
+                          "sajda": (a["surah"], a["ayah"]) in SAJDA,
                           "text": to_hamdullah(u), "text_unicode": u})
     assert len(ayahs) == 6236, len(ayahs)
     assert len({(a["surah"], a["ayah"]) for a in ayahs}) == 6236
@@ -87,6 +100,7 @@ def main():
             "number": s["surah"],
             "name_turkish": s["name_turkish"],
             "name_arabic": s["name_arabic"],
+            "name_arabic_unicode": to_unicode(s["name_arabic"]),
             "name_transliteration": s["transliteration"],
             "revelation_place": s["revelation_place"],
             "revelation_order": s["revelation_order"],

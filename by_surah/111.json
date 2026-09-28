@@ -2,6 +2,7 @@
   "number": 111,
   "name_turkish": "Tebbet",
   "name_arabic": "الْمَسَدِ",
+  "name_arabic_unicode": "الْمَسَدِ",
   "name_transliteration": "Al-Masad",
   "revelation_place": "meccan",
   "revelation_order": 6,
@@ -16,6 +17,7 @@
       "page": 604,
       "printed_page": 603,
       "juz": 30,
+      "sajda": false,
       "text": "تَبَّتْ يَدَٓا اَب۪ي لَهَبٍ وَتَبَّۜ",
       "text_unicode": "تَبَّتْ یَدَٓا اَبٖی لَهَبٍ وَتَبَّؕ"
     },
@@ -24,6 +26,7 @@
       "page": 604,
       "printed_page": 603,
       "juz": 30,
+      "sajda": false,
       "text": "مَٓا اَغْنٰى عَنْهُ مَالُهُ وَمَا كَسَبَۜ",
       "text_unicode": "مَٓا اَغْنٰى عَنْهُ مَالُهُ وَمَا كَسَبَؕ"
     },
@@ -32,6 +35,7 @@
       "page": 604,
       "printed_page": 603,
       "juz": 30,
+      "sajda": false,
       "text": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۚ",
       "text_unicode": "سَیَصْلٰى نَارًا ذَاتَ لَهَبٍۚ"
     },
@@ -40,6 +44,7 @@
       "page": 604,
       "printed_page": 603,
       "juz": 30,
+      "sajda": false,
       "text": "وَامْرَاَتُهُۜ حَمَّالَةَ الْحَطَبِۚ",
       "text_unicode": "وَامْرَاَتُهُؕ حَمَّالَةَ الْحَطَبِۚ"
     },
@@ -48,6 +53,7 @@
       "page": 604,
       "printed_page": 603,
       "juz": 30,
+      "sajda": false,
       "text": "ف۪ي ج۪يدِهَا حَبْلٌ مِنْ مَسَدٍ",
       "text_unicode": "فٖی جٖیدِهَا حَبْلٌ مِنْ مَسَدٍ"
     }

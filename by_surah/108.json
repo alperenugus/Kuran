@@ -2,6 +2,7 @@
   "number": 108,
   "name_turkish": "Kevser",
   "name_arabic": "الْكَوْثَرِ",
+  "name_arabic_unicode": "الْكَوْثَرِ",
   "name_transliteration": "Al-Kawthar",
   "revelation_place": "meccan",
   "revelation_order": 15,
@@ -16,6 +17,7 @@
       "page": 603,
       "printed_page": 602,
       "juz": 30,
+      "sajda": false,
       "text": "اِنَّٓا اَعْطَيْنَاكَ الْكَوْثَرَۜ",
       "text_unicode": "اِنَّٓا اَعْطَیْنَاكَ الْكَوْثَرَؕ"
     },
@@ -24,6 +26,7 @@
       "page": 603,
       "printed_page": 602,
       "juz": 30,
+      "sajda": false,
       "text": "فَصَلِّ لِرَبِّكَ وَانْحَرْۜ",
       "text_unicode": "فَصَلِّ لِرَبِّكَ وَانْحَرْؕ"
     },
@@ -32,6 +35,7 @@
       "page": 603,
       "printed_page": 602,
       "juz": 30,
+      "sajda": false,
       "text": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
       "text_unicode": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ"
     }
