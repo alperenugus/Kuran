@@ -17,7 +17,7 @@ Most open Qur'an datasets (Tanzil, quran.com, …) use the **Arab/Medina orthogr
 | Silent letters | — | small circle (اُو۫فِ) |
 | Hamza | يَأْمُرُكُمْ, إِسْرَائِيلَ | يَاْمُرُكُمْ, اِسْرَٓائٖلَ |
 
-The text is Diyanet's own mushaf page data (`kuran.diyanet.gov.tr/mushaf`). It was checked against Diyanet's printed *Bilgisayar Hatlı* mushaf and matches it spelling for spelling.
+The text is Diyanet's own mushaf page data (`kuran.diyanet.gov.tr/mushaf`), checked word by word against Diyanet's printed *Bilgisayar Hatlı* mushaf (Rahle Boy, 5. Baskı 2018). In the 25 ayahs where the page data differs from the print (secâvend, silent-letter circles, hamza seats, one yâ in 7:196, the small nûn in 104:2), the print is followed; each correction is listed in `scripts/build.py` (`CORRECTIONS`).
 
 ## Files
 
@@ -72,7 +72,7 @@ Diyanet encodes the same marks with **different Unicode codepoints depending on 
 - **`text_unicode`** is for full-Unicode Qur'an fonts such as **Scheherazade New** (SIL OFL), and for copy/paste. Scheherazade reads U+06DC literally, as a small س.
 - Tested and **not recommended**: Amiri, Noto Sans Arabic and system fonts. They lack the silent-letter circles and misplace the Turkish marks.
 
-The kashida (U+0640) that Diyanet inserts to justify its page layout has been removed.
+The kashida (U+0640) that Diyanet inserts to justify its page layout has been removed. A kashida that carries a mark is part of the letter, not justification, and is kept: the hamza seat in شَیْـًٔا, یَسْـَٔلُونَكَ, سَیِّـَٔاتِ (272 places).
 
 ### Sûre
 

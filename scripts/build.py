@@ -59,10 +59,60 @@ def printed_page(page):
     return 1 if page <= 2 else page - 1
 
 
+# Where Diyanet's page data differs from the printed mushaf (Kur'ân-ı Kerîm, Rahle
+# Boy, Hat: Bilgisayar, 5. Baskı 2018, ISBN 978-975-19-5752-8), the print wins.
+# (surah, ayah) -> [(as in the page data after clean(), as printed)]
+CORRECTIONS = {
+    # secâvend
+    (2, 259): [("یَتَسَنَّهْۚ", "یَتَسَنَّهْؕ")],             # ج -> ط
+    (4, 79): [("اللّٰهِۘ", "اللّٰهِؗ")],                        # م -> ز
+    (4, 118): [("اللّٰهُؗ", "اللّٰهُۘ")],                       # ز -> م
+    (11, 46): [("صَالِحٍࣗ", "صَالِحٍؗ")],                      # ق -> ز
+    (60, 4): [("اللّٰهِۘ", "اللّٰهِؗ")],                        # م -> ز
+    (14, 44): [("الْعَذَابُ ", "الْعَذَابُۙ ")],                # لا added
+    (7, 44): [("الظَّالِمٖینَۙ", "الظَّالِمٖینَ")],            # لا removed
+    (34, 34): [("مُتْرَفُوهَٓاۙ", "مُتْرَفُوهَٓا")],            # لا removed
+    (56, 94): [("جَحٖیمٍۙ", "جَحٖیمٍ")],                        # لا removed
+    # 48:5: لا added after عَظٖیمًا; hamza on its own seat in سَیِّـَٔاتِهِمْ
+    (48, 5): [("عَظٖیمًا", "عَظٖیمًاۙ"), ("سَیِّئَات", "سَیِّـَٔات")],
+    # silent-letter (kasr) circle
+    (16, 90): [("وَاٖیتَٓائِ", "وَاٖیتَٓائِ࣑")],
+    (38, 21): [("نَبَؤُا", "نَبَؤُ࣑ا")],
+    (20, 94): [("یَبْنَؤُ࣑مَّ", "یَبْنَؤُمَّ")],
+    # hamza printed on the elif
+    (5, 29): [("تَبُٓواَ", "تَبُٓوأَ")],
+    (10, 88): [("وَمَلَاَهُ", "وَمَلَأَهُ")],
+    (12, 43): [("الْمَلَاُ", "الْمَلَأُ")],
+    (15, 26): [("حَمَاٍ", "حَمَأٍ")],
+    (15, 28): [("حَمَاٍ", "حَمَأٍ")],
+    (15, 33): [("حَمَاٍ", "حَمَأٍ")],
+    (16, 5): [("تَاْكُلُونَ", "تَأْكُلُونَ")],
+    (28, 76): [("لَتَنُٓواُ", "لَتَنُٓوأُ")],
+    # printed without a hamza: the elif carries the tenvin
+    (12, 31): [("مُتَّكَـًٔا", "مُتَّكَاً")],
+    (73, 6): [("وَطْـًٔا", "وَطْاً")],
+    # 7:196: one yâ (shedde on the seat), not two
+    (7, 196): [("وَلِيِّىَ", "وَلِـِّیَ")],
+    # 104:2: small nûn (nûn-ı kasra) printed under the elif
+    (104, 2): [("اَلَّذٖی", "اَࣙلَّذٖی")],
+}
+
+
 def clean(t):
-    """Drop the page-justification kashida and normalise spaces."""
-    t = t.replace("ـ", "").replace(" ", " ").replace(" ", " ")
+    """Drop the page-justification kashida and normalise spaces. A kashida that
+    carries a mark (the hamza seat in شَیْـًٔا, خَاسِـٖٔینَ, ...) is a letter
+    form, not justification: one is kept."""
+    t = re.sub(r"ـ+(?=[ً-ٟ])", "ـ", t)
+    t = re.sub(r"ـ(?![ً-ٟ])", "", t)
+    t = t.replace(" ", " ").replace(" ", " ")
     return re.sub(r"\s+", " ", t).strip()
+
+
+def correct(ref, t):
+    for old, new in CORRECTIONS.get(ref, []):
+        assert t.count(old) == 1, (ref, old, t.count(old))
+        t = t.replace(old, new)
+    return t
 
 
 def to_hamdullah(t):
@@ -84,7 +134,7 @@ def main():
     for p in src["pages"]:
         juz = min(p["cuz"], 30)  # Diyanet labels pages 602-605 "31"; they belong to cüz 30
         for a in p["ayahs"]:
-            u = clean(a["text"])
+            u = correct((a["surah"], a["ayah"]), clean(a["text"]))
             ayahs.append({"surah": a["surah"], "ayah": a["ayah"], "page": p["page"],
                           "printed_page": printed_page(p["page"]), "juz": juz,
                           "sajda": (a["surah"], a["ayah"]) in SAJDA,
